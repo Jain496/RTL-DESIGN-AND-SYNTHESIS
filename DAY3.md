@@ -1,7 +1,6 @@
 # RTL Sythesis and Design -DAY 3
 
-Notes and lab results for **combinational** and **sequential logic optimization**, using Yosys and the `sky130_fd_sc_hd` standard cell library.
-
+This day covers combinational and sequential logic optimization, using Yosys and the sky130_fd_sc_hd standard cell library
 
 
 ---

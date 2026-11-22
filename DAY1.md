@@ -1,4 +1,4 @@
-# Day 1: Introduction to Verilog RTL Design and Synthesis
+# SKY130 RTL Design and Synthesis Workshop – Day 1
 
 This document records the work completed on Day 1: setting up the open-source toolchain, simulating a 2:1 multiplexer with **Icarus Verilog**, viewing its waveforms in **GTKWave**, and synthesizing it into a gate-level netlist with **Yosys** using the **SkyWater 130 nm (Sky130)** standard-cell library.
 

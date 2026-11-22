@@ -1,8 +1,8 @@
-# Day 3 – Introduction to Logic Optimization
+# RTL Sythesis and Design -DAY 3
 
 Notes and lab results for **combinational** and **sequential logic optimization**, using Yosys and the `sky130_fd_sc_hd` standard cell library.
 
-> Screenshots are stored in `docs/images/` and referenced as `docs/images/<name>.png`.
+
 
 ---
 

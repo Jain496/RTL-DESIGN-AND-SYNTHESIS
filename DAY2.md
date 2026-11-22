@@ -8,7 +8,7 @@ Timing libraries, hierarchical vs flat synthesis, flip-flop coding styles and RT
 3. [Flip-flops: why and how to code them](#3-flip-flops-why-and-how-to-code-them)
 4. [RTL optimization](#4-rtl-optimization)
 
-> Screenshots are stored in the `docs/images/` folder and named by the notes numbering (e.g. `14.1.png`).
+
 
 ---
 
